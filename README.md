@@ -15,6 +15,16 @@ And the codes are like this:
 
  *![Alt text](./Screenshot%20from%202020-08-27%2019-33-45.png "Arduin IDE Screenshot")
 
-Thanks.
 
+**To Do:**
+
+must add **some intrupt for fast exit form Clock looops and fix error of LCD Crupting situation in clock Loop.**
+
+Thanks to the following people (ordered by name):
+
+My Mother
+Abrisham Chi
+Saeed
+Dr Assarzadeh
+and ...
   [1]: https://dmf313.ir/%D8%B1%D9%88%D8%B4-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-hex-%D8%A7%D8%B2-%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-%D8%A2%D8%B1%D8%AF%D9%88%DB%8C%D9%86%D9%88/
